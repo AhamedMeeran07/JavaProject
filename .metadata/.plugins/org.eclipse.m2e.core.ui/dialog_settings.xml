@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\2110998\Downloads\myfirstwebapp (2)\myfirstwebapp\pom.xml"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\Junit\src\com\Junit\Exxample\JunitPractice.java"/>
+			<item value="C:\Users\2110998\Downloads\Demo\Demo"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\mvc"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\Servers"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\springbootrest"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\ahamed\src\main\webapp\WEB-INF\ahamed-servlet.xml"/>
+			<item value="C:\Users\2110998\Eclipsc-newversion\springbootrest\src\main\resources\application.properties"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.ahamed.DemoMvc"/>
+		</list>
+		<list key="groupId">
+			<item value="com.ahamed"/>
+		</list>
+		<list key="artifactId">
+			<item value="DemoMvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\2110998\Downloads\FirstProject"/>
+			<item value="C:\Users\2110998\Downloads\demo (1)"/>
+			<item value="C:\Users\2110998\Downloads\myfirstwebapp (2)"/>
+			<item value="C:\Users\2110998\Downloads\myfirstwebapp (1)"/>
+			<item value="C:\Users\2110998\Downloads\myfirstwebapp"/>
+			<item value="C:\Springboot\myfirstwebapp"/>
+			<item value="C:\Users\2110998\Downloads\learnspringboot\learnspringboot"/>
+			<item value="C:\Users\2110998\Downloads\Demo\Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

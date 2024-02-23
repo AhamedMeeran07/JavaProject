@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;interview_programs_objects.ElectricCityBill.java&apos; to &apos;ElectriccityBill.java&apos;&#x0D;&#x0A;- Original project: &apos;interview_programs&apos;&#x0D;&#x0A;- Original element: &apos;interview_programs_objects.ElectricCityBill.java&apos;&#x0D;&#x0A;- Renamed element: &apos;interview_programs_objects.ElectriccityBill.java&apos;" description="Rename compilation unit &apos;ElectricCityBill.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;interview_programs_objects{ElectricCityBill.java" name="ElectriccityBill.java" references="false" stamp="1703677247722" version="1.0"/>
+</session>
